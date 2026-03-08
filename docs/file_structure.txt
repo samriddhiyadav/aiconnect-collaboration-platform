@@ -1,0 +1,47 @@
+.
+|____.gitignore
+|____assets
+| |____css
+| | |____main.css
+| |____images
+| | |____planets
+| | |____stars
+| |____js
+| | |____main.js
+|____config.php
+|____docs
+| |____file_structure.txt
+| |____README.md
+| |____schema.sql
+| |____TeamSphere.docx
+|____includes
+| |____db_connect.php
+| |____functions.php
+|____index.php
+|____src
+| |____admin
+| | |____dashboard.php
+| | |____departments.php
+| | |____reports.php
+| | |____system_settings.php
+| | |____users.php
+| |____api
+| |____auth
+| | |____auth.php
+| |____dashboard
+| | |____dashboard.php
+| |____employee
+| | |____dashboard.php
+| | |____department.php
+| | |____documents.php
+| | |____profile.php
+| | |____tasks.php
+| |____manager
+| | |____dashboard.php
+| | |____profile.php
+| | |____reports.php
+| | |____tasks.php
+| | |____team.php
+|____test
+|____uploads
+| |____nebula_documents
